@@ -29,6 +29,6 @@ def find_a(words)
   words.find_all {|word| word.start_with?('a')}
 end
 
-def sum_array()
+def sum_array(numbers)
 
 end
