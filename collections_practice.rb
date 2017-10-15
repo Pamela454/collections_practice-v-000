@@ -34,5 +34,5 @@ def sum_array(numbers)
 end
 
 def add_s(words)
-  [1,2].each_with_index.collect{|word, index|}
+  [1,2].each_with_index.collect{|word, 2|}
 end
